@@ -36,7 +36,7 @@ Register Interface
 
 | Name | Link |
 | :---: | :---: | 
-| Ux UI Auth Design Flutter | [Click Me](https://github.com/TamerAyesh/auth_ui_flutter) |
+| Ux UI Auth Design Flutter | [Click Me](https://github.com/TamerAyesh/Ux_UI_Auth_Design_Flutter) |
 | Wallpaper Api App | [Click Me](https://github.com/TamerAyesh/TimoWallpaperApi) |
 | Sheets Design Flutter | [Click Me](https://github.com/TamerAyesh/Sheets_Design_Flutter) |
 | Coffee Crew Flutter Firebase | [Click Me](https://github.com/TamerAyesh/Coffee_Crew_flutter_firebase) |
