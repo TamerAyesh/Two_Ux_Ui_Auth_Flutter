@@ -5,13 +5,13 @@ This app is just to display two of the most beautiful and useful Ux/Ui designs f
 ## Overview
 
 Desgin 01 Has:
-Default Interface
-Login Interface
-Register Interface
+(Default Interface,
+Login Interface,
+Register Interface).
 
 Desgin 02 Has:
-Default Interface
-Register Interface
+(Default Interface,
+Register Interface).
 
 **Note: This is not a complete project. This is just a design that you can use in your project on Flutter.**
 
